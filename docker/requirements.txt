@@ -10,3 +10,4 @@ japanize_matplotlib
 plotly
 seaborn
 torch
+torchvision
